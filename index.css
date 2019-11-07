@@ -3,6 +3,10 @@ form {
   padding-top: 0.5em;
 }
 
+body {
+  text-align:center;
+
+}
 
 h1 {  
   text-align: center;
@@ -13,6 +17,20 @@ h1 {
 button{
 	width: 100px;
 	text-align:center;
+}
+
+img{
+text-align: center;
+margin: auto;
+width:34%;
+}
+
+.column {
+  padding: 0 4px;
+}
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
 }
 
 ul {
